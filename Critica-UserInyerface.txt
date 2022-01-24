@@ -1,0 +1,9 @@
+1.El enlace inicial debería ser más intuitivo de encontrar 
+2. No se deben poner animaciones o enlaces a elementos que no llevan a ningún lado
+3. El formulario no debe contener información de forma predeterminada, debería hacerse con labels o con placeholder
+4. No deberían saltar ventanas emergentes como la delm reloj de la nada, y si saltan poner el botón de cerrar lo más visible posible
+5. Si fallas en el formulario, las recomendaciones las pondría una vez que haya fallado, no siempre
+6. Los intereses hay que dejarlos desmarcados todos y que cada usuario escoja lo que quiera
+7. En enlace de subida de foto debería ser un botón, y el de descarga no debería estar ahí
+8.El formulario de los datos personales lo cambiaría entero, te va diciendo fallo a fallo en vez de mostrarlos todos a la vez, además tiene información de forma predeterminada en vez de placeholder
+9. La zona de validación es demasiada y muy poco orientativa, ya que no sabes que imagen estás seleccionando
